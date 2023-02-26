@@ -58,7 +58,7 @@ USED TECHNOLOGY, TOOLS AND PROGRAMMING LANGUAGES
 ● Css
 
 
-![Uploading Ekran Resmi 2023-02-26 ÖS 3.47.53.png…]()
+<img width="1194" alt="Ekran Resmi 2023-02-26 ÖS 3 47 53" src="https://user-images.githubusercontent.com/111710264/221411684-08031f75-dc06-4711-bda3-8f23410404e7.png">
 
 
 
