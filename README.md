@@ -58,6 +58,10 @@ USED TECHNOLOGY, TOOLS AND PROGRAMMING LANGUAGES
 ● Css
 
 
+![Uploading Ekran Resmi 2023-02-26 ÖS 3.47.53.png…]()
+
+
+
 
 
 
