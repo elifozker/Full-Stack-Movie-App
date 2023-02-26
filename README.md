@@ -60,6 +60,28 @@ USED TECHNOLOGY, TOOLS AND PROGRAMMING LANGUAGES
 
 <img width="1194" alt="Ekran Resmi 2023-02-26 ÖS 3 47 53" src="https://user-images.githubusercontent.com/111710264/221411684-08031f75-dc06-4711-bda3-8f23410404e7.png">
 
+<img width="1148" alt="Ekran Resmi 2023-02-26 ÖS 3 48 00" src="https://user-images.githubusercontent.com/111710264/221411734-e4825bab-5906-45f9-8343-c51cebd9d8c0.png">
+
+<img width="1171" alt="Ekran Resmi 2023-02-26 ÖS 3 48 10" src="https://user-images.githubusercontent.com/111710264/221411773-5e342614-f786-4d88-93e3-bf2fe14b0b99.png">
+
+<img width="1152" alt="Ekran Resmi 2023-02-26 ÖS 3 48 13" src="https://user-images.githubusercontent.com/111710264/221411849-7c0a43ee-77a7-4e30-a827-7d765ab5e42a.png">
+
+<img width="1205" alt="Ekran Resmi 2023-02-26 ÖS 3 48 26" src="https://user-images.githubusercontent.com/111710264/221411991-c28e3719-f108-4e4a-8e18-5a5f4e42c3bd.png">
+
+<img width="1187" alt="Ekran Resmi 2023-02-26 ÖS 3 48 34" src="https://user-images.githubusercontent.com/111710264/221412049-9e46810d-9a84-4383-8a18-0270601fe1a4.png">
+
+<img width="1148" alt="Ekran Resmi 2023-02-26 ÖS 3 48 29" src="https://user-images.githubusercontent.com/111710264/221412087-51b59959-d46f-4f2d-8454-2f0c77ca3479.png">
+
+<img width="1183" alt="Ekran Resmi 2023-02-26 ÖS 3 48 36" src="https://user-images.githubusercontent.com/111710264/221412139-993c3d3f-dd6f-4350-a737-ee04e63e97e8.png">
+
+<img width="998" alt="Ekran Resmi 2023-02-26 ÖS 3 48 45" src="https://user-images.githubusercontent.com/111710264/221412214-f4ea4d58-96ad-49fb-9c5b-c09d8e50ec57.png">
+
+<img width="1010" alt="Ekran Resmi 2023-02-26 ÖS 3 48 47" src="https://user-images.githubusercontent.com/111710264/221412250-c3ed997d-6638-4991-8719-ce087998b166.png">
+
+
+
+
+
 
 
 
