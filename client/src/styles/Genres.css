@@ -1,0 +1,33 @@
+.genres{
+    display: block;
+}
+.genre-container{
+    position: absolute;
+    background-color: rgb(30,37,44);
+    padding-right: 150xpx;
+    display: flex;
+    height: 30px;
+    flex-wrap: wrap;
+    top: 100px;
+    margin-left:100px;
+}
+.genre-caro{
+   width: 100px;
+   background-color: red;
+   position: relative;
+   margin-right: 30px;
+   border-radius: 30px;
+}
+.genreBtn{
+    position: absolute;
+    padding: 5px 15px ;
+    height: 30px;
+    width: 100px;  
+}
+.h6{
+    position: absolute;
+    font-size: 10px;
+
+    
+}
+

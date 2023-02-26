@@ -1,0 +1,38 @@
+.s-container{
+    display: flex;
+    align-items: center;
+    height: 50px;
+    padding: 0 15px;
+    margin-left: 1000px;
+   
+}
+.s-container input{
+    padding: 15px;
+    float:right;
+    margin-top: 85px;
+    letter-spacing: 1.4px;
+    color: black;
+    width: 60%;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    border-radius: 10px;
+    z-index: 10;
+    position: relative;
+    
+}
+.s-container input::placeholder{
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+#searchicon{
+    float:right;
+    cursor: pointer;
+    position: absolute;
+    top: 55px;
+    transform: scale(0.8);
+    margin-left: 1205px;
+    z-index: 15;
+}

@@ -1,0 +1,20 @@
+.form{
+    margin-left: 10px;
+    margin-right: 5px;
+    position: relative;
+    
+}
+#adduser{
+    position: absolute;
+    left: 520px;
+    padding: 10px 5px;
+    top: 620px;
+
+}
+#deleteuser{
+    position: absolute;
+    left: 200px;
+    padding: 10px 5px;
+    top: 755px;
+
+}

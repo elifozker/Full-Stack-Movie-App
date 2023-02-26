@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,400;0,500;0,800;1,300;1,400;1,700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.login{
+    font-family:'Raleway',sans-serif ;
+    background-image: linear-gradient(rgba(44, 43, 47, 0.621),rgba(70, 69, 74, 0.627)),url("./Adsız4.png"); 
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    .container{
+        font-family:'Raleway',sans-serif ;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        height: 80vh;
+        width: 30vw;
+        background: rgb(18, 24, 29);
+        box-shadow: 0 16px 32px 0 rgba(218, 13, 13, 0.37);
+        backdrop-filter: blur(35px);
+        border-radius: 10px;
+        color:white;
+        text-transform: uppercase;
+        letter-spacing: 0.2rem;
+
+        h1{
+            margin-top:32px;
+        }
+
+        form{
+            display:flex;
+            flex-direction: column;
+            justify-content: space-around;
+            align-items: center;
+            height:20%;
+            width:100%;
+            margin-top: 80px;
+            margin-bottom: 50px;
+            position: relative;
+
+            input{
+                background-color: rgba(61, 56, 56, 0.15);
+                box-shadow: 0 8px 32px 0 rgba(226, 48, 48, 0.37); 
+                border-radius: 2rem;
+                width: 80%;
+                height: 3rem;
+                padding: 1rem;
+                margin-bottom: 20px;
+                border:none;
+                outline:none;
+                color:#dcd9e7;
+                font-size: 1rem;
+                font-weight: bold;
+                &:focus{
+                    display: inline-block;
+                    box-shadow: 0 0 0 0.2rem #e06161;
+                    backdrop-filter: blur(12rem);
+                    border-radius: 2rem;
+                }
+                &::placeholder{
+                    color:#e7e3f299;
+                    font-weight: 100;
+                    font-size:1rem;
+                }
+            }
+            .button{
+                margin:1rem 0 2rem 0;
+                width: 100%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                button{
+                    background: linear-gradient(to right,#6c1818 0%,#dd4343 79%);
+                    text-transform: uppercase;
+                    letter-spacing: 0.2rem;
+                    width: 65%;
+                    height: 3rem;
+                    border: none;
+                    color:white;
+                    cursor: pointer;
+                    border-radius: 2rem;
+                }
+                
+            }
+            .line{
+                position:absolute;
+                width: 90%;
+                height: 0.1rem;
+                border-radius: 0.8rem;
+                border: none;
+                margin:1.5em 0 1rem 0;
+                margin-top: 270px;
+                background: linear-gradient(to right,#6c1818 0%,#dd4343 79%);
+            }
+        }   
+        
+        
+        .pcontainer{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin: 2rem 0 3rem 0;
+            margin-top:50px;
+            width: 80%;
+
+            p{
+                margin-top: 10px;
+            }
+        }
+        .register2{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin: 2rem 0 3rem 0;
+            margin-top: 20px;
+            width: 80%;
+            height: 10%;
+            position: relative;
+            span{
+                font-size: 12px;
+            }
+            a{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                margin-top: 25px;
+                margin-left: 100px;
+                button{
+                    position: absolute;
+                    width: 80%;
+                    background: linear-gradient(to right,#6c1818 0%,#dd4343 79%);
+                    text-transform: uppercase;
+                    letter-spacing: 0.1rem;
+                    height: 3rem;
+                    border: none;
+                    color:white;
+                    cursor: pointer;
+                    border-radius: 2rem;
+                    margin-right: 100px;
+                }
+            }
+        }
+    }
+}

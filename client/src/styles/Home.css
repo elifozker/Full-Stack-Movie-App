@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.home{
+    width: 100%;
+    height: 100%;   
+    position: relative;    
+}
+.Footer{
+    position: absolute;
+    bottom: 0px;
+
+}

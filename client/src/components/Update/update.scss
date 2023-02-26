@@ -1,0 +1,79 @@
+.profile{
+    height: 760vh;
+    background-color:rgb(30,37,44);
+    position: relative;
+    
+    .images{
+        width: 100%;
+        height: 300px;
+        position: relative;
+        .profilePic{
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            object-fit: cover;
+            position: absolute;
+            left: 0;
+            right: 0;
+            margin: auto;
+            top: 90px;
+        }
+    }
+    
+        .updating{
+            width: 100%;
+            height: 56px;
+            border-radius: 4px;
+            position: relative;
+            transition: 0.3s all;
+            
+            form{
+                position: relative;
+                display:flex;
+                flex-direction: column;
+                align-items: center;
+                height:50%;
+                width:100%;
+                margin-bottom: 20px;
+    
+                input[type=text] {
+                    transition: width 0.4s ease-in-out;
+                    width: 20%;
+                    padding: 12px 20px;
+                    margin: 8px 4px;
+                    margin-top: 50px;
+                    box-sizing: border-box;
+                    border-radius: 4px;
+                    
+                    &:focus{
+                        color: #6e7d8b;
+                        display: inline-block;
+                        background-color: rgb(30,37,44);
+                        
+                    }
+                    
+                  }
+            }
+            .button{
+                margin:2rem 0 2rem 0;
+                width: 100%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                button{
+                    background: linear-gradient(to right,rgb(23, 28, 34) 0%,#3a4f63 79%);
+                    text-transform: uppercase;
+                    letter-spacing: 0.2rem;
+                    width: 10%;
+                    height: 3rem;
+                    border: none;
+                    color:white;
+                    cursor: pointer;
+                    border-radius: 2rem;
+                }
+                
+            }
+            
+        
+    }
+}

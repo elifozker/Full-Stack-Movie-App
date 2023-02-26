@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+.card{
+    height: 80vh;
+    background-color:#14181C;
+    font-family: 'M PLUS 1', sans-serif;
+    font-weight:200;
+}
+.card-container{
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+.title{
+    font-size: 23px;
+    font-weight:400;
+    color: #fffff2;
+    position: absolute;
+    letter-spacing: 4px;
+    left: 525px;  
+    top: -50px; 
+}
+.card-first,
+.card-two,
+.card-three,
+.card-fourth{
+    position: absolute;
+    padding-right:380px;
+    padding-bottom: 150px;    
+    color: #ffff;
+    border-radius: 20px;
+    transition: all .2s ease-in-out; 
+    top:100px;
+    background-color:#2D3440;
+    overflow: hidden;   
+}
+
+.card-first:hover,.card-three:hover{
+    background-color: green;
+}
+.card-two:hover,.card-fourth:hover{
+    background-color: orange;
+}
+.card-first{   
+    left: 325px;   
+}
+.card-two{ 
+    left: 750px;     
+}
+.card-three{
+    top: 290px;
+    left: 325px;   
+}
+.card-fourth{
+    top: 290px;
+    left: 750px;     
+}
+.card-desc{
+    position: absolute;
+    top: 36px;
+    left: 90px;
+    line-height: 25px;
+    font-size:13px;
+    z-index: 10;
+    
+}
+.material-symbols-outlined {
+position: absolute;
+top: 40%;
+left: 22px;
+scale:calc(2.0);
+}
+.tex{
+    position: absolute;
+    bottom: 70px;
+    color: #fffff2;
+    font-size: 26px;
+    left: 530px;
+
+}

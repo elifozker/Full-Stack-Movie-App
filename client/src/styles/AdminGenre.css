@@ -1,0 +1,30 @@
+.welcome{
+    margin-left: 35%;
+    font-size: 27px;
+    font-weight: 400;
+    color: white;  
+}
+h1{
+    margin-left: 20px;
+    margin-top: 90px;
+}
+.form{
+    margin-left: 10px;
+    margin-right: 5px;
+    position: relative;
+    
+}
+#addgenre{
+    position: absolute;
+    padding: 10px 5px;
+    top: 345px;
+    margin-left: 200px; 
+}
+#deletegenre{
+    position: absolute;
+    top: 485px;
+    left: 200px;
+    padding:10px 20px;
+}
+
+

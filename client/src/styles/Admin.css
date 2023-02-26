@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.new-movie{
+    background-color:#636d73;
+    height: 250vh;
+    width: 100%;
+    font-family: 'M PLUS 1', sans-serif;
+    
+}
+.admin-container{
+    height: 50px;
+    width: 100%;
+    background-color:#9aa898;
+}
+.welcome{
+    margin-left: 35%;
+    font-size: 27px;
+    font-weight: 400;
+    color: white;  
+}
+h1{
+    margin-left: 20px;
+    margin-top: 90px;
+}
+.form{
+    margin-left: 10px;
+    margin-right: 5px;
+    position: relative;
+    
+}
+#input_1{
+    position: absolute;
+    padding: 10px 5px;
+    top: 70px;
+    margin-left: 10px;
+    
+}
+#input_2{
+    position: absolute;
+    padding: 10px 5px;
+    top: 70px;
+    margin-left: 180px;
+   
+}
+#input_3{
+    position: absolute;
+    padding: 10px 5px;
+    top: 70px;
+    margin-left: 350px;
+   
+}
+#input_4{
+    position: absolute;
+    padding: 10px 5px;
+    top: 70px;
+    margin-left: 520px;
+
+}
+#input_5{
+    position: absolute;
+    padding: 10px 5px;
+    top: 70px;
+    margin-left: 690px;
+    
+}
+#input_6{
+    position: absolute;
+    padding: 10px 5px;
+    top: 70px;
+    margin-left: 860px;
+    
+}
+#input_7{
+    position: absolute;
+    padding: 10px 5px;
+    top: 70px;
+    margin-left: 1030px;
+    
+}
+#input_8{
+    position: absolute;
+    padding: 10px 5px;
+    top: 70px;
+    margin-left: 1200px;   
+}
+.btn-1{
+    position: absolute;
+    top: 210px;
+    right: 0px;
+    padding:10px 0px  ;
+}
+.logs{
+    margin-top: 150px;
+    margin-left: 150px;
+}
+table{
+    margin-left: 50px;
+}
+
+
